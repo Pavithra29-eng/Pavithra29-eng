@@ -1,153 +1,80 @@
-# Pavithra Lokesh# Hi 👋, I'm Pavithra Lokesh M
+# Pavithra Lokesh M
 
-### AI/ML Engineer | Generative AI | RAG | LLMs
+**AI/ML Engineer | Generative AI & RAG Systems** Computer Engineering graduate (SIES GST) with a **CGPA of 7.93/10**.
 
-Computer Engineering graduate specializing in AI/ML and Generative AI, with hands-on experience building RAG pipelines, LLM-based chatbots, vector search and NLP applications in Python.
-
-I enjoy building intelligent systems that combine machine learning, generative AI and software engineering.
+I build AI systems that go from prototype to production — RAG pipelines, LLM-powered chatbots, vector search, and document intelligence tools. Currently exploring cloud AI platforms and looking to build intelligent chatbots and engineering-workflow AI systems.
 
 ---
 
-## 🧠 Tech Stack
-
-### AI / Generative AI
-
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-4CAF50?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-3498DB?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-E67E22?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
-### Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Programming
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LLM Badge](https://img.shields.io/badge/LLMs-RAG-412991?style=for-the-badge&logo=openai&logoColor=white) ![Scikit Badge](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![React Badge](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🤖 SmartBuddy — Private AI Search Engine & RAG Chatbot
-
-A private AI search engine and conversational chatbot for document-based question answering.
-
-**Tech:** Python • RAG • LLMs • Vector Search • Ollama • KD-Tree • HNSW
-
-- Built a complete Retrieval-Augmented Generation pipeline
-- Implemented Brute Force, KD-Tree and HNSW vector search
-- Integrated local LLM inference using Ollama
+| Category | Skills |
+|---|---|
+| **AI / Generative AI** | **LLMs** • **RAG** • **Vector Search** • Prompt Engineering • Embeddings • NLP • Ollama |
+| **Machine Learning** | **Scikit-learn** • Pandas • NumPy • Random Forest • Model Evaluation & Tuning |
+| **Programming & Data** | **Python** • C++ • SQL • JavaScript |
+| **Cloud & Tools** | **AWS** • Docker • Git/GitHub • Streamlit • MySQL • REST APIs |
+| **Web Development** | React.js • HTML • CSS • Tailwind CSS • API Integration |
 
 ---
 
-### 🧑‍💻 PrepPulse — AI Interview Preparation
+## Projects
 
-AI-powered application that analyzes resumes and job descriptions to generate personalized interview preparation plans.
+### SmartBuddy — Private AI Search Engine & RAG Chatbot
+A private AI search engine and conversational chatbot for document-based question answering, built on a Retrieval-Augmented Generation (RAG) pipeline. Implements Brute Force, KD-Tree, and HNSW vector search algorithms for efficient retrieval, with local LLM inference via Ollama.
+`Python` `RAG` `LLMs` `Vector Search` `Ollama` `KD-Tree` `HNSW`
 
-**Tech:** Gemini 2.5 Flash • React.js • Tailwind CSS • SCSS • APIs
+### PrepPulse — AI Interview Preparation Application
+Parses and analyzes uploaded resumes and job descriptions to generate personalized interview preparation plans, powered by Gemini 2.5 Flash and LLM-driven content extraction.
+`Gemini 2.5 Flash` `React.js` `Tailwind CSS` `SCSS` `APIs`
 
-- Resume and job-description analysis
-- LLM-powered content extraction
-- Automated personalized preparation plans
+### CodeMitra — Multilingual Programming Error Explanation
+A multilingual NLP application that explains programming errors in native languages, improving accessibility for rural and non-English-speaking beginner programmers.
+`Python` `Streamlit` `Regex` `Generative AI` `NLP`
 
----
-
-### 🌐 CodeMitra — Multilingual Programming Error Explanation
-
-A multilingual NLP application that explains programming errors in native languages.
-
-**Tech:** Python • Streamlit • Regex • Generative AI • NLP
-
-- Explains programming errors in native languages
-- Uses regex-based text processing
-- Uses Generative AI to improve accessibility for beginner programmers
+### LoanIQ — ML Loan Approval Dashboard
+An ML-powered dashboard predicting loan approval decisions from applicant financial data, using a tuned, class-balanced Random Forest model for binary classification.
+`Python` `Scikit-learn` `Pandas` `NumPy` `Random Forest` `Streamlit`
 
 ---
 
-### 📊 LoanIQ — ML Loan Approval Dashboard
+## Experience
 
-Machine-learning dashboard for predicting loan approval decisions from applicant financial data.
+### AI/ML Intern — Oneture Technologies
+*Dec 2025 – Jan 2026*
+- Built AI/ML pipelines integrating pre-trained models for automated data classification.
+- Developed a Supplier Profile Dashboard in React.js for internal stakeholders.
+- Built system-oriented components in Python, C++, and Rust for scalable data processing.
 
-**Tech:** Python • Scikit-learn • Pandas • NumPy • Random Forest • Streamlit
+### Web Developer — Vault-Tech Security
+*Jan 2025*
+- Built a Subscription Management System with authentication, payments, and third-party API integration.
 
-- Built binary Approve/Reject classification
-- Used a class-balanced Random Forest model
-- Tuned and evaluated the ML model
-
----
-
-## 💼 Experience
-
-**AI/ML Intern — Oneture Technologies**  
-Dec 2025 – Jan 2026
-
-- Built AI/ML pipelines for automated data classification
-- Developed a React.js Supplier Profile Dashboard
-- Worked with Python, C++ and Rust for data-processing components
-
-**Web Developer — Vault-Tech Security**  
-Jan 2025
-
-- Developed a Subscription Management System
-- Implemented authentication, payment processing and database workflows
-
-**Frontend Developer — IIT Bombay**  
-Feb 2024 – Mar 2024
-
-- Built a tool to simplify programming error messages
-- Contributed to AI chatbot integration and software design
+### Frontend Developer — IIT Bombay
+*Feb 2024 – Mar 2024*
+- Built a tool that simplifies programming errors for beginner programmers.
+- Contributed to AI chatbot integration and cross-team research.
 
 ---
 
-## 🎓 Education
+## Education
 
-**B.E. Computer Engineering**  
-SIES Graduate School of Technology  
-2022 – 2026
-
-**CGPA: 7.93 / 10**
+**B.E. Computer Engineering** SIES Graduate School of Technology · 2022 – 2026 **CGPA: 7.93 / 10**
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- Generative AI: Prompt Engineering Basics — IBM
-- SQL Using AI Workshop — AI For Techies
-- Developer and Technology — Accenture
+- **Generative AI: Prompt Engineering Basics** — IBM (Coursera), Jul 2026
+- **SQL Using AI Workshop** — AI For Techies, Aug 2025
+- **Developer and Technology** — Accenture, Dec 2024
 
 ---
 
-## 🤝 Connect With Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavithra29-eng)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-📧 pavithralokesh641@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavithralokesh641@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pavithra-portfolio-dev.vercel.app/)
