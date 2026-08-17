@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavithra%20Lokesh%20M&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=55&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavithra%20Lokesh%20M&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20and%20RAG%20Systems&descAlignY=55&descSize=18)
 
 </div>
 
