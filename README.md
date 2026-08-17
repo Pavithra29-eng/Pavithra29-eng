@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Pavithra Lokesh M
-### 🤖 AI/ML Engineer &nbsp;|&nbsp; ✨ Generative AI & RAG Systems
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavithra%20Lokesh%20M&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=55&descSize=18)
 
 </div>
 
@@ -101,5 +100,11 @@ An ML-powered dashboard predicting loan approval decisions from applicant financ
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavithralokesh641@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://pavithra-portfolio-dev.vercel.app/)
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
