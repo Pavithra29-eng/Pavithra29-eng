@@ -14,7 +14,7 @@ I'm a Computer Engineering graduate (SIES GST) who builds AI systems end-to-end 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -24,7 +24,7 @@ I'm a Computer Engineering graduate (SIES GST) who builds AI systems end-to-end 
 
 ---
 
-## 💡 Technical Skills
+##  Technical Skills
 
 | Category | Skills |
 |---|---|
@@ -36,7 +36,7 @@ I'm a Computer Engineering graduate (SIES GST) who builds AI systems end-to-end 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔍 SmartBuddy — Private AI Search Engine & RAG Chatbot
 A private AI search engine and conversational chatbot for document-based question answering, built on a Retrieval-Augmented Generation (RAG) pipeline. Implements Brute Force, KD-Tree, and HNSW vector search algorithms for efficient retrieval, with local LLM inference via Ollama.
@@ -60,7 +60,7 @@ An ML-powered dashboard predicting loan approval decisions from applicant financ
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### 🏢 AI/ML Intern — Oneture Technologies
 *Dec 2025 – Jan 2026*
@@ -79,13 +79,13 @@ An ML-powered dashboard predicting loan approval decisions from applicant financ
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.E. Computer Engineering** SIES Graduate School of Technology · 2022 – 2026            **CGPA: 7.93 / 10**
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🟦 **Generative AI: Prompt Engineering Basics** — IBM (Coursera), Jul 2026
 - 🟩 **SQL Using AI Workshop** — AI For Techies, Aug 2025
@@ -93,7 +93,7 @@ An ML-powered dashboard predicting loan approval decisions from applicant financ
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
