@@ -13,7 +13,7 @@ Currently exploring cloud AI to build scalable and production-ready intelligent 
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=AI%2FML+Developer;Building+AI-Powered+Machine+Learning+%26+Automation+Solutions;Cloud+AI+Explorer;Problem+Solver;RAG+%26+LLM+Systems+Builder;Frontend+Specialist)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=AI%2FML+Developer;Building+AI-Powered+Machine+Learning+%26+Automation+Solutions;Cloud+AI+Explorer;Problem+Solver;RAG+%26+LLM+Systems+Builder;Frontend+Specialist)
 
 </div>
 
