@@ -1,10 +1,13 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavithra%20Lokesh%20M&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20and%20RAG%20Systems&descAlignY=55&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pavithra%20Lokesh%20Mudaliyar&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Frontend%20Specialist%20%7C%20GenAI%20Enthusiast&descAlignY=55&descSize=16)
 
 </div>
 
-I'm a Computer Engineering graduate (SIES GST) who builds AI systems end-to-end — from research and prototyping to deployment. My focus is on Generative AI: RAG pipelines, LLM-powered chatbots, vector search, and document intelligence tools that solve real retrieval and reasoning problems. I also work across full-stack development and machine learning, and I'm currently exploring cloud AI platforms to build intelligent, production-ready chatbot and engineering-workflow systems. 🚀
+Computer Engineering graduate from SIES GST with hands-on experience in AI/ML, Generative AI, and Software Development.
+
+I build end-to-end solutions using Machine Learning, LLMs, RAG, vector search, chatbots, and full-stack technologies, from research and prototyping to deployment. Currently exploring cloud AI to build scalable, production-ready intelligent systems. 
+
 
 <div align="center">
 
