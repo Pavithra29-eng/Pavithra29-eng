@@ -4,13 +4,11 @@
 
 </div>
 
-Computer Engineering graduate (SIES GST) with a **CGPA of 7.93/10** 🎓
-
-I build AI systems that go from prototype to production — RAG pipelines, LLM-powered chatbots, vector search, and document intelligence tools. Currently exploring cloud AI platforms and looking to build intelligent chatbots and engineering-workflow AI systems. 🚀
+I'm a Computer Engineering graduate (SIES GST) who builds AI systems end-to-end — from research and prototyping to deployment. My focus is on Generative AI: RAG pipelines, LLM-powered chatbots, vector search, and document intelligence tools that solve real retrieval and reasoning problems. I also work across full-stack development and machine learning, and I'm currently exploring cloud AI platforms to build intelligent, production-ready chatbot and engineering-workflow systems. 🚀
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+LLM+chatbots;Turning+AI+prototypes+into+production;Always+exploring+GenAI+%2B+Cloud+AI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;RAG+%26+LLM+Systems+Builder;Problem+Solver)
 
 </div>
 
@@ -20,7 +18,7 @@ I build AI systems that go from prototype to production — RAG pipelines, LLM-p
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![LLM](https://img.shields.io/badge/LLMs%20%2F%20RAG-FF6F61?style=for-the-badge&logo=openai&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![React](https://img.shields.io/badge/React.js-00D8FF?style=for-the-badge&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00A0E1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![LLM](https://img.shields.io/badge/LLMs%20%2F%20RAG-FF6F61?style=for-the-badge&logo=openai&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![React](https://img.shields.io/badge/React.js-00D8FF?style=for-the-badge&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00A0E1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -32,7 +30,7 @@ I build AI systems that go from prototype to production — RAG pipelines, LLM-p
 |---|---|
 | 🧠 **AI / Generative AI** | **LLMs** • **RAG** • **Vector Search** • Prompt Engineering • Embeddings • NLP • Ollama |
 | 📊 **Machine Learning** | **Scikit-learn** • Pandas • NumPy • Random Forest • Model Evaluation & Tuning |
-| 💻 **Programming & Data** | **Python** • C++ • SQL • JavaScript |
+| 💻 **Programming & Data** | **Python** • **C++** • **Rust** • SQL • JavaScript |
 | ☁️ **Cloud & Tools** | **AWS** • Docker • Git/GitHub • Streamlit • MySQL • REST APIs |
 | 🌐 **Web Development** | React.js • HTML • CSS • Tailwind CSS • API Integration |
 
@@ -83,7 +81,7 @@ An ML-powered dashboard predicting loan approval decisions from applicant financ
 
 ## 🎓 Education
 
-**B.E. Computer Engineering** SIES Graduate School of Technology · 2022 – 2026 **CGPA: 7.93 / 10**
+**B.E. Computer Engineering** SIES Graduate School of Technology · 2022 – 2026            **CGPA: 7.93 / 10**
 
 ---
 
