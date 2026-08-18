@@ -7,7 +7,6 @@
 Computer Engineering graduate from SIES GST with hands-on experience in AI/ML, Generative AI, and Software Development.
 
 I build end-to-end solutions across Machine Learning, Generative AI, LLMs, RAG, Vector Search, Chatbots, and Web Development — from prototyping to deployment.
-
 Currently exploring cloud AI to build scalable and production-ready intelligent systems.
 
 
